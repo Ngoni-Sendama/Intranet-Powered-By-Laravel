@@ -10,8 +10,8 @@ An intranet is a private network accessible only to an organization’s members,
 
 ## Images
 
-[](./public/images/Image1.png)
-[](./public/images/Image2.png)
-[](./public/images/Image3.png)
-[](./public/images/Image4.png)
-[](./public/images/Image5.png)
+![](./public/images/Image1.png)
+![](./public/images/Image2.png)
+![](./public/images/Image3.png)
+![](./public/images/Image4.png)
+![](./public/images/Image5.png)
